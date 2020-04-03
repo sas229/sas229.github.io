@@ -1,1 +1,7 @@
-ssh sas229@gate.eng.cam.ac.uk
+Copy files to sas229.github.io
+Enter sas229.github.io folder
+Enter the following commands:
+
+git add --all
+git commit -m "Mesge to go here..."
+git push origin master

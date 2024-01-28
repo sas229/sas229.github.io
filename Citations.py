@@ -22,4 +22,5 @@ for i in range(len(cites_html)):
     
 plt.bar(years, citations)
 plt.bar(years, np.cumsum(citations))
+plt.show()
         
